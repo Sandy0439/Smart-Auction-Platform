@@ -1,0 +1,6 @@
+cd path/to/Smart-Auction-Platform
+git init
+git remote add origin https://github.com/your-username/Smart-Auction-Platform.git
+git add .
+git commit -m "Initial commit for Smart Auction Platform"
+git push -u origin master
